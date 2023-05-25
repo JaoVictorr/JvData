@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Machine learning, Mysql e Banco de dados**
 
-- 💬 Me pergunte sobre **Excel e Power BI**
+- 💬 Tenho conhecimento em **Excel, Power BI e SQL**
 
 - 📫 Você me acha atráves do e-mail **jvictor20k@gmail.com**
 
